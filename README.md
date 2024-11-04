@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **hello.i.am.roxane@gmail.com**
 
-- 📄 Know about my experiences [I worked in customer relation before turning back to what I liked when I was little : video games and the vast world of informatic. After a formation at OpenClassrooms, I discovered that I really enjoyed coding. Thus, here I am ! :)](I worked in customer relation before turning back to what I liked when I was little : video games and the vast world of informatic. After a formation at OpenClassrooms, I discovered that I really enjoyed coding. Thus, here I am ! :))
+- 📄 Know about my experiences : I’ve always been motivated by problem solving, which made customer service a great start to my career. But I quickly realized that I wanted to do more: I wanted to be the one creating the solutions. My lifelong interest in technology, especially video games, which taught me to enjoy immersive and logical challenges, led me to web development. At 25, I decided to make the switch and enrolled in a web development course. That’s where everything fell into place: coding allowed me to combine my problem solving skills with my passion for creating intuitive user experiences. JavaScript and React became my go-to tools for creating responsive and dynamic interfaces :)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
